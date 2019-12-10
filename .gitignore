@@ -3,3 +3,4 @@ lib
 share
 pip-selfcheck.json
 pyvenv.cfg
+__pycache__
