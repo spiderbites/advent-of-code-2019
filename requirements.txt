@@ -1,0 +1,4 @@
+autopep8==1.4.4
+decorator==4.4.1
+networkx==2.4
+pycodestyle==2.5.0
