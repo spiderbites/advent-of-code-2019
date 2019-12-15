@@ -156,7 +156,6 @@ def runp2(inputs, position, intcodes):
 
 
 if __name__ == "__main__":
-
     f = open(os.path.join(os.getcwd(), "d7/input.txt"))
     lines = f.read().strip().split(",")
     original_intcodes = [int(line) for line in lines]
