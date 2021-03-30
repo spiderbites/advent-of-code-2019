@@ -4,7 +4,7 @@ decorator==4.4.1
 Django==3.0.12
 networkx==2.4
 numpy==1.18.0
-Pillow==6.2.1
+Pillow==8.1.1
 pycodestyle==2.5.0
 pytz==2019.3
 sqlparse==0.3.0
